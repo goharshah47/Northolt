@@ -1,0 +1,7 @@
+{
+  "name": "Northolt Travel Clinic | Travel Health & Vaccinations",
+  "description": "Private travel vaccination clinic operated by Northolt Village Pharmacy in West London. Destination-specific jabs, antimalarials, and expert pharmacist advice.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
